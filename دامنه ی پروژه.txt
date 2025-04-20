@@ -1,0 +1,4 @@
+هدف پروژه: (مثلاً، تبدیل گفتار به متن و ترجمه خودکار)
+روش اجرا: به اینترنت نیاز دارد
+وابستگی‌ها: (TOKEN TELEGRAM= 7910879682:AAGMxsloNN1Iw4pFKl1lyBFGav-2mebbi9o)
+ نحوه استفاده: (نیاز به تلگرام) ربات@AI_SubtitleBot (mahbubeh.bot)
