@@ -98,5 +98,14 @@ python bot.py
 
 ### 📬 تماس با من:
 طراحی و پیاده‌سازی توسط **محبوبه**  
-📧 ایمیل: [niayeshmirshekar92@gmail.com](mailto:niayeshmirshekar92@gmail.com)  
+### 📫 راه‌های ارتباطی با من
+
+- 📧 ایمیل: [niayeshmirshekar92@gmail.com](mailto:niayeshmirshekar92@gmail.com)
+- 💼 لینکدین: [Mahboubeh Mirshekar](https://www.linkedin.com/in/mahbubeh-mirshekar-999640170)
+- اینستاگرام: airobo.project
+  کانال تلگرام:airobo_project
+
+---
+
+<p align="center">
 📲 آماده همکاری در پروژه‌های هوش مصنوعی، یادگیری ماشین و پردازش زبان و تصویر
